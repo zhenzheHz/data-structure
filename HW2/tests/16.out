@@ -1,0 +1,38 @@
+Tree height = 16
+Delete records:
+[1]	E	d5	D 日	B 學士	100	10	20
+[2]	E	d8	D 日	B 學士	100	10	20
+[3]	E	d10	D 日	B 學士	100	10	20
+[4]	E	d19	D 日	B 學士	100	10	20
+[5]	E	d22	D 日	B 學士	100	10	20
+[6]	E	d25	D 日	B 學士	100	10	20
+[7]	E	d27	D 日	B 學士	100	10	20
+[8]	E	d28	D 日	B 學士	100	10	20
+[9]	E	d33	D 日	B 學士	100	10	20
+[10]	E	d38	D 日	B 學士	100	10	20
+Tree height = 16
+Search results:
+[1]	A	d3	D 日	B 學士	100	10	20
+[2]	A	d4	D 日	B 學士	100	10	20
+[3]	A	d6	D 日	B 學士	100	10	20
+[4]	A	d9	D 日	B 學士	100	10	20
+[5]	A	d12	D 日	B 學士	100	10	20
+[6]	A	d13	D 日	B 學士	100	10	20
+[7]	A	d16	D 日	B 學士	100	10	20
+[8]	A	d18	D 日	B 學士	100	10	20
+[9]	A	d21	D 日	B 學士	100	10	20
+[10]	A	d23	D 日	B 學士	100	10	20
+[11]	A	d26	D 日	B 學士	100	10	20
+[12]	A	d30	D 日	B 學士	100	10	20
+[13]	A	d32	D 日	B 學士	100	10	20
+[14]	A	d39	D 日	B 學士	100	10	20
+Search results:
+[1]	C	d0	D 日	B 學士	100	10	20
+[2]	C	d7	D 日	B 學士	100	10	20
+[3]	C	d35	D 日	B 學士	100	10	20
+Search results:
+There is no match!
+Search results:
+There is no match!
+Search results:
+There is no match!

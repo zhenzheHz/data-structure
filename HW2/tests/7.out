@@ -1,0 +1,8 @@
+Tree height = 4
+Delete records:
+[1]	M	m1	D 日	B 學士	100	10	20
+[2]	M	m2	D 日	B 學士	100	10	20
+[3]	M	m3	D 日	B 學士	100	10	20
+Tree height = 2
+Search results:
+There is no match!

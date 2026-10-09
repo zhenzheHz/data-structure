@@ -1,0 +1,22 @@
+Tree is empty!
+Tree height = 5
+Tree height = 6
+Delete records:
+[1]	國立中央大學	資訊工程學系	D 日	B 學士	475	28	109
+Tree height = 5
+Delete records:
+There is no match!
+Tree height = 5
+Tree height = 7
+Tree height = 9
+Search results:
+[1]	中原大學	資訊工程學系	D 日	B 學士	444	15	73
+Delete records:
+There is no match!
+Tree height = 9
+Delete records:
+[1]	元智大學	資訊工程學系	D 日	B 學士	630	23	142
+Tree height = 9
+Search results:
+[1]	亞洲大學	資訊工程學系	D 日	B 學士	344	19	83
+Tree height = 9
